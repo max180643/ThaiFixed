@@ -4,8 +4,10 @@ Resource Pack fix Thai language display incorrect for Minecraft Java Edition
 
 ---
 
-ThaiFixed 1.13, 1.15 - Modified from `IBM Plex Sans Thai` font
-ThaiFixed 1.21.3 - Modified from `Itim` font
+# Font
+
+- ThaiFixed 1.13, 1.15 - Modified from `IBM Plex Sans Thai` font
+- ThaiFixed 1.21.3 - Modified from `Itim` font
 
 ---
 
